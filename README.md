@@ -34,31 +34,15 @@ VaultAI is an AI assistant that reads from a **FAISS index of your Obsidian Vaul
 
 
 
-## Script Versions
 
-
-
-<<<<<<< HEAD
 - ✅ `vault_ai_gui_claude.py` — **Final version** of the GUI application.  
-=======
-- ✅ `vault\_ai\_gui\_claude.py` — \*\*Final version\*\* of the GUI application.  
->>>>>>> 6b38be391a6574b831fac63071d6b7cdec608161
 
-&#x20; This is the most refined and fully debugged version, optimized for interactive use.
-
-
-
-<<<<<<< HEAD
+- ✅ `vault\_ai\_gui\_claude.py` — **Final version** of the GUI application.  
+This is the most refined and fully debugged version, optimized for interactive use.
  ⚠️ **Note**: While this project was **debugged using Claude**, the **entire code was not written by Claude**. Earlier versions of the code (`vault_ai_gui.py`, `vault_ai_gui_GPT.py`, etc.) were debugged with their respective models (e.g., GPT, Claude).  
-
  This was done as a kind of **experiment/challenge** to see which model produced the best‑debugged, most stable version.  
-
  The final version (`vault_ai_gui_claude.py`) is recommended for regular use.
-=======
- ⚠️ \*\*Note\*\*: While this project was \*\*debugged using Claude\*\*, the \*\*entire code was not written by Claude\*\*. Earlier versions of the code (`vault\_ai\_gui.py`, `vault\_ai\_gui\_GPT.py`, etc.) were debugged with their respective models (e.g., GPT, Claude).  
-
- This was done as a kind of \*\*experiment/challenge\*\* to see which model produced the best‑debugged, most stable version.  
-
+ ⚠️ **Note**: While this project was **debugged using Claude**, the **entire code was not written by Claude**. Earlier versions of the code (`vault\_ai\_gui.py`, `vault\_ai\_gui\_GPT.py`, etc.) were debugged with their respective models (e.g., GPT, Claude).  
+ This was done as a kind of **experiment/challenge** to see which model produced the best‑debugged, most stable version.  
  The final version (`vault\_ai\_gui\_claude.py`) is recommended for regular use.
->>>>>>> 6b38be391a6574b831fac63071d6b7cdec608161
 
