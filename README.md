@@ -6,17 +6,17 @@ VaultAI is an AI assistant that reads from a \*\*FAISS index of your Obsidian Va
 
 
 
-\## Features
+## Features
 
 
 
-📚 \*\*Obsidian Vault Integration\*\*:  
+📚 **Obsidian Vault Integration**:  
 
 &#x20; VaultAI loads a FAISS index built from your Obsidian notes, so it can answer questions using semantic search over your personal knowledge.
 
 
 
-🌐 \*\*Integration with thehelpers\*\*:  
+🌐 **Integration with thehelpers**:  
 
 &#x20; The project also integrates with the website \*\*\[thehelpers](https://thehelpers.vercel.app)\*\*, expanding its capabilities by connecting to external tools or systems via that platform.
 
