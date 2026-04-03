@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+ollama
+PyPDF2
+python-pptx
+python-docx
+PySide6
+requests

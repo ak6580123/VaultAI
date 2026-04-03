@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name            = "vaultai"
+version         = "1.0.0"
+description     = "Obsidian-aware RAG assistant with accent colour theming"
+readme          = "README.md"
+requires-python = ">=3.10"
+license         = { text = "MIT" }
+
+dependencies = [
+    "faiss-cpu",
+    "sentence-transformers",
+    "ollama",
+    "PyPDF2",
+    "python-pptx",
+    "python-docx",
+    "PySide6",
+    "requests",
+]
+
+[project.scripts]
+vaultai = "vaultai.__main__:main"
+
+[tool.setuptools.packages.find]
+where   = ["."]
+include = ["vaultai*"]
+
+[tool.setuptools.package-data]
+vaultai = ["resources/*"]
